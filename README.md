@@ -1,4 +1,4 @@
-# Shodancommands
+# ShodanDorks
 A brief summary of how to exploit Shodan's OSINT technology and Dorks Commands.
 1. BUSCA SIMPLES
 No campo para preencimento de busca você pode fazer a busca de termos como o nome do servidor, por exemplo: Apache, Nginx, etc.
